@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mradulakshi Manu</h1>
 <h3 align="center">🚀 Exploring the exciting worlds of Machine Learning & Web Development</h3>
 
-- 🔭 Currently building web apps using **HTML, CSS, JavaScript, and the MERN stack**, while exploring the fascinating realm of **Machine Learning**
+- 🔭 Currently building web apps using **HTML, CSS, JavaScript, and MERN stack**, while exploring the fascinating realm of **Machine Learning**
 - 🌱 Continuously learning how to apply **ML algorithms** to real-world problems and enhance web experiences with smart solutions
 - 💬 Always happy to chat about **web development**, **machine learning concepts**, **clean code**, and **problem solving**
 - 📫 How to reach me: **mradulakshimanu8193@gamil.com**
