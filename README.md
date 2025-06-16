@@ -13,6 +13,13 @@
   <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode,firebase" />
 </p>
 
+### 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mradulakshi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-informational)](https://your-portfolio-link.com)
+
+
 ### 📈 GitHub Stats:
 
 <p align="center">
@@ -20,8 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mradulakshi&layout=compact&theme=tokyonight" />
 </p>
 
-### 🌐 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mradulakshi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-informational)](https://your-portfolio-link.com)
