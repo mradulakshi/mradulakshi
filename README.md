@@ -17,7 +17,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mradulakshi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-informational)](https://your-portfolio-link.com)
 
 
 ### 📈 GitHub Stats:
